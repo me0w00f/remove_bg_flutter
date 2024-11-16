@@ -1,6 +1,7 @@
 # Remove Background Tool
 
 一个简单且功能强大的图像背景移除工具，基于 **Flutter** 和 **Python** 构建。该应用提供用户友好的图形界面，支持选择输入文件和输出目录，并自动调用 Python 脚本进行图像处理。
+![alt text](image.png)
 
 ## ✨ 项目特点
 
@@ -131,9 +132,3 @@ flutter run
 - 感谢 Flutter 和 Dart 社区提供的支持。
 - RMBG-2.0 模型来自 [BriaAI](https://bria.ai)。
 - 感谢所有使用和贡献本项目的开发者。
-
-```
-
-
-
-```
